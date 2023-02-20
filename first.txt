@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hi
 hello 
 good afternoon
+=======
+hello
+hi
+good morning
+>>>>>>> new_branch
 
